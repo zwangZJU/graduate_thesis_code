@@ -1,0 +1,6 @@
+classes= 1
+train=E:/Datasets/MOT17Det/train/train_labels.txt
+valid=E:/Datasets/MOT17Det/train/train_labels.txt
+names=data/caltech.names
+backup=backup/
+eval=face

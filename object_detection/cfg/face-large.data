@@ -1,0 +1,6 @@
+classes= 2
+train=E:/Datasets/CrowdHuman/train_m/labels_train_new.txt
+valid=E:/Datasets/CrowdHuman/val_m/labels_val_new.txt
+names=data/face.names
+backup=backup/
+eval=face

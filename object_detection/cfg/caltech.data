@@ -1,0 +1,6 @@
+classes= 1
+train=E:/Datasets/Caltech/Person/train/train_labels.txt
+valid=E:/Datasets/Caltech/Person/test/test_labels.txt
+names=data/caltech.names
+backup=backup/
+eval=coco
